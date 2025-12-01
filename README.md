@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Zektra Logo](https://zektra.xyz/logo.png)
+<img src="https://zektra.xyz/logo.png" alt="Zektra Logo" width="120" />
 
 **Where Private Data Becomes Powerful Intelligence**
 
